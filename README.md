@@ -34,6 +34,8 @@ For my final capstone project, I developed a disaster recovery plan using a mult
 
 📹 Video Demonstration – A step-by-step walkthrough of the recovery process in action.
 
+🎥 Watch the File Recovery Demonstration: https://youtu.be/iyI6D9klby0 
+
 🎯 Why This Matters
 
 This bootcamp equipped me with the technical skills and practical experience needed for roles in Cybersecurity Operations, SOC Analysis, IT Security, and System Administration. The capstone project showcases my ability to design and implement real-world security solutions in a structured IT environment.
